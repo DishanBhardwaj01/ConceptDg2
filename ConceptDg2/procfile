@@ -1,0 +1,1 @@
+web: gunicorn ConceptDg2.wsgi --log-file -
