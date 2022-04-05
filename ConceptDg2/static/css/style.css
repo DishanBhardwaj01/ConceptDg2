@@ -592,6 +592,7 @@ body {
 
 ul {
   margin: 0;
+  padding: 0;
 }
 ul.dashed {
   list-style-type: none;
@@ -600,7 +601,6 @@ ul.dashed {
 ul.dashed > li {
   /* text-indent: -5px; */
   color: #595959;
-  text-align: left;
 }
 ul.dashed > li:before {
   content: "-";
